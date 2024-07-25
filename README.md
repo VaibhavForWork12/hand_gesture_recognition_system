@@ -1,0 +1,1 @@
+A real-time hand gesture recognition system using OpenCV, MediaPipe, and TensorFlow. This project captures video from a webcam, detects hand landmarks, and predicts gestures using a pre-trained model, displaying the predicted gestures on the video feed.
